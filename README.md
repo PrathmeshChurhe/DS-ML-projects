@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Internship
+Data Science Virtual Internship at Oasis Infobyte.
