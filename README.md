@@ -1,2 +1,2 @@
-# OIBSIP
-Data Science Virtual Internship at Oasis Infobyte.
+# DS-ML-Projects
+Some basic DS tasks using ML.
